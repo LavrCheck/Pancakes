@@ -1,0 +1,70 @@
+*{
+    margin: 0 !important;   
+}
+
+.App{
+    background-color: #f2f2f2;
+}
+
+.L {
+    text-align: left;
+    width: 45% !important;
+}
+
+.R {
+    text-align: right;
+    width: 45% !important;
+}
+
+.C {
+    text-align: center;
+    width: 10% !important;
+}
+
+.Lg {
+    text-align: left;
+    width: 45% !important;
+    color: #11009E !important;
+    font-weight: 900;
+    font-size: 20px;
+
+}
+
+.Rg {
+    text-align: right;
+    width: 45% !important;
+    color: #11009E !important;
+    font-weight: 900;
+    font-size: 20px;
+}
+
+.Cg {
+    text-align: center;
+    width: 10% !important;
+}
+
+p{
+    color: #B31312;
+}
+
+.WhAp{
+    border-radius: 50%;
+    position: fixed;
+    bottom: 30px;
+    right: 25px;
+}
+
+.image{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+
+.logogo{
+    width: 150px;
+    height: 150px;
+}
+
+.logop{
+    text-align: center;
+}
